@@ -1,0 +1,11 @@
+---
+title: "Method"
+author: "AlonsoChico_Ale"
+date: "25 de abril de 2018"
+output: html_document
+---
+```{r}
+```
+##Methods
+###Study system
+
